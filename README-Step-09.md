@@ -4,7 +4,7 @@
 #### Automatically Failover All Database Mirrors With A Single Job (09 of 10)
 **发布-日期: 2015年10月29日 (评论)**
 
-![#](images/image0012.png?raw=true "#")
+![#](images/screenshot_09.png?raw=true "#")
 
 ## Contents
 
